@@ -1,3 +1,5 @@
+Updates of python files are commited in the same file version so that all changes are tracable.
+
 The test consisted of three tasks: prepare temperature data, develop the function of profit maximization with the given parameters, and the third one requires to provide the forecast of the given variable. Before the central part, I supply a short instruction if there is a need to check my code. The main findings are described below.
 
 First, I have developed two methods to solve the Task 1 problem in Python. Also, I have described four ways to do that in the most manageable -> advanced order. Given the time constraint, I implemented two medium-advanced methods.
