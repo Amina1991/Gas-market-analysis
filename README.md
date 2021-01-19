@@ -1,4 +1,4 @@
-Updates of python files are commited in the same file version so that all changes are tracable.
+Updates of python files are commited in the same file version so that all changes traceable.
 
 The test consisted of three tasks: prepare temperature data, develop the function of profit maximization with the given parameters, and the third one requires to provide the forecast of the given variable. Before the central part, I supply a short instruction if there is a need to check my code. The main findings are described below.
 
